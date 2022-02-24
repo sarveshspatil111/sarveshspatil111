@@ -1,6 +1,6 @@
 <!-- # [<img src="https://lh3.googleusercontent.com/a-/AOh14Gilqms4ucFuPLLOrS93UYMNXtYGtDXxeDPqrHDNFA=s96-c-rg-br100" width="40" height="40">](https://github.com/sarveshspatil111) Hi, I’m Sarvesh Patil -->
 
-<h1>Hello, I'm Sarvesh Patil</h1>
+<!-- <h1>Hello, I'm Sarvesh Patil</h1> -->
 <!-- 
 <a href='https://www.linkedin.com/in/sarveshspatil/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=sarveshspatil&color=gray&style=plastic-square&logo=linkedin' />
@@ -24,10 +24,11 @@
     <img src='https://img.shields.io/static/v1?label=&message=Resume&color=gray&style=plastic-square&logo=files' />
   </a> -->
 
+
+<!--
 ```csharp
 sarvesh@arch:~$ fetchinfo
 ```
-<!--
 ```csharp
     _______     sarvesh@void
  _ \______ -    ------------------
@@ -39,7 +40,7 @@ sarvesh@arch:~$ fetchinfo
                 Memory: 282MiB / 7726MiB
 ```
 -->
-```csharp
+<!-- ```csharp
       /\         sarvesh@arch
      /  \        ----------------
     /\   \       OS: Arch Linux
@@ -47,7 +48,7 @@ sarvesh@arch:~$ fetchinfo
   /  (  )  \     Terminal: st
  / __|  |__\\    Shell: zsh
 /.`        `.\   WM: dwm
-```
+``` -->
 
 <!-- <img align="left" src="https://raw.githubusercontent.com/sarveshspatil111/sarveshspatil111/main/assets/gentoo.png" width="190" />
 ```csharp
@@ -63,4 +64,7 @@ Learning: Node.js, Express, Frappe
 Tools: Git, Tmux, Docker
 ``` -->
 
-![](https://github-readme-streak-stats.herokuapp.com?user=sarveshspatil111&theme=tokyonight&hide_border=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com?user=sarveshspatil111&theme=tokyonight&hide_border=true) -->
+
+
+![SC1](https://raw.githubusercontent.com/sarveshspatil111/dotfiles/main/SC1.png)
